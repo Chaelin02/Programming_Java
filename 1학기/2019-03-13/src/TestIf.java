@@ -24,7 +24,7 @@ public class TestIf {
 			System.out.println("Seventen");
 		}*/
 		
-	/*	switch¹®
+	/*	switchë¬¸
 	 * switch (member) {
 		case 5:
 			System.out.println("itzy");
@@ -50,12 +50,12 @@ public class TestIf {
 	 */
 	/* 
 		int i = 1;
-		while( i <= 9) {  //Á¶°Ç½Ä
+		while( i <= 9) {  //ì¡°ê±´ì‹
 			System.out.println( 2 +" * "+ i +" = "+ 2*i   );
-				i++;  //Áõ°¨½Ä
-		} while¹®
+				i++;  //ì¦ê°ì‹
+		} whileë¬¸
 */
-		//for-each¹®
+		//for-eachë¬¸
 		System.out.println("=========================");
 //		System.out.println(4);
 		int arr[] = new int[] {5,7,9,1,13};

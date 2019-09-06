@@ -1,4 +1,4 @@
 
-public interface ¿µÈ­¹è¿ì {
+public interface ì˜í™”ë°°ìš° {
 
 }

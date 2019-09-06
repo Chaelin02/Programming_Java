@@ -6,47 +6,47 @@ public class class3 {
 //		Scanner sc = new Scanner(System.in);
 
 		/*
-		 * int user; System.out.println("´ç½ÅÀº ¸î¹İÀÔ´Ï±î?"); user = sc.nextInt(); if (user ==
-		 * 3) { System.out.println("3¹İ ¿©·¯ºĞ ¾È³ç ~ ±Ã±İÇÑ ¹øÈ£¸¦ Àû¾îºÁ¿ë"); int bun = sc.nextInt();
-		 * switch (bun) { case 1: System.out.println("1¹ø °­Áö¹Î"); break; case 2:
-		 * System.out.println("2¹ø °­ÇıÁ¤"); break; case 3: System.out.println("3¹ø ±è°¡¿µ");
-		 * break; case 4: System.out.println("4¹ø ±è³ª¿µ"); break; case 5:
-		 * System.out.println("5¹ø ±è¼±¿Á"); break; case 6: System.out.println("6¹ø ±è¼öÁø");
-		 * break; case 7: System.out.println("7¹ø ·ùÁ¤¹Î"); break; case 8:
-		 * System.out.println("8¹ø ¹Ú±³·É"); break; case 9: System.out.println("9¹ø ¼­³²°æ");
-		 * break; case 10: System.out.println("10¹ø ¿À½Â¿¬"); break; case 11:
-		 * System.out.println("11¹ø ¿ø¿¹¸°"); break; case 12: System.out.println("12¹ø ¿øÃ¤¸°");
-		 * break; case 13: System.out.println("13¹ø ÀÌ¼­Çö"); break; case 14:
-		 * System.out.println("14¹ø ÀÌÃ¤¸°"); break; case 15: System.out.println("15¹ø ÀÌÇö¼ö");
-		 * break; case 16: System.out.println("16¹ø ÀÓÇöÁø"); break; case 17:
-		 * System.out.println("17¹ø ÀåÀ¯°æ"); break; case 18: System.out.println("18¹ø Àå¿øÀÌ");
-		 * break; case 19: System.out.println("19¹ø ÇÑ´Ù¿¬"); break; default:
-		 * System.out.println("±× ¹øÈ£ÀÇ »ç¶÷Àº ¾ø½¿´ç ¤Ğ"); break; } else if(user == 4){
-		 * System.out.println("4¹İÀº ¾ø¾î¿ä!"); } }
+		 * int user; System.out.println("ë‹¹ì‹ ì€ ëª‡ë°˜ì…ë‹ˆê¹Œ?"); user = sc.nextInt(); if (user ==
+		 * 3) { System.out.println("3ë°˜ ì—¬ëŸ¬ë¶„ ì•ˆë…• ~ ê¶ê¸ˆí•œ ë²ˆí˜¸ë¥¼ ì ì–´ë´ìš©"); int bun = sc.nextInt();
+		 * switch (bun) { case 1: System.out.println("1ë²ˆ ê°•ì§€ë¯¼"); break; case 2:
+		 * System.out.println("2ë²ˆ ê°•í˜œì •"); break; case 3: System.out.println("3ë²ˆ ê¹€ê°€ì˜");
+		 * break; case 4: System.out.println("4ë²ˆ ê¹€ë‚˜ì˜"); break; case 5:
+		 * System.out.println("5ë²ˆ ê¹€ì„ ì˜¥"); break; case 6: System.out.println("6ë²ˆ ê¹€ìˆ˜ì§„");
+		 * break; case 7: System.out.println("7ë²ˆ ë¥˜ì •ë¯¼"); break; case 8:
+		 * System.out.println("8ë²ˆ ë°•êµë ¹"); break; case 9: System.out.println("9ë²ˆ ì„œë‚¨ê²½");
+		 * break; case 10: System.out.println("10ë²ˆ ì˜¤ìŠ¹ì—°"); break; case 11:
+		 * System.out.println("11ë²ˆ ì›ì˜ˆë¦°"); break; case 12: System.out.println("12ë²ˆ ì›ì±„ë¦°");
+		 * break; case 13: System.out.println("13ë²ˆ ì´ì„œí˜„"); break; case 14:
+		 * System.out.println("14ë²ˆ ì´ì±„ë¦°"); break; case 15: System.out.println("15ë²ˆ ì´í˜„ìˆ˜");
+		 * break; case 16: System.out.println("16ë²ˆ ì„í˜„ì§„"); break; case 17:
+		 * System.out.println("17ë²ˆ ì¥ìœ ê²½"); break; case 18: System.out.println("18ë²ˆ ì¥ì›ì´");
+		 * break; case 19: System.out.println("19ë²ˆ í•œë‹¤ì—°"); break; default:
+		 * System.out.println("ê·¸ ë²ˆí˜¸ì˜ ì‚¬ëŒì€ ì—†ìŠ´ë‹¹ ã… "); break; } else if(user == 4){
+		 * System.out.println("4ë°˜ì€ ì—†ì–´ìš”!"); } }
 		 */
-////		for(;;) °¡ Æ÷¹®ÀÇ ¹«ÇÑ¹İº¹
-//		String[] ¹İ3 = { "°­Áö¹Î", "°­ÇıÁ¤", "±è°¡¿µ", "±è³ª¿µ", "±è¼±¿Á", "±è¼öÁø", "·ùÁ¤¹Î", "¹Ú±³·É", "¼­³²°æ", "¿À½Â¿¬", "¿ø¿¹¸°", "¿øÃ¤¸°", "ÀÌ¼­Çö",
-//				"ÀÌÃ¤¸°", "ÀÌÇö¼ö", "ÀÓÇöÁø", "ÀåÀ¯°æ", "Àå¿øÀÌ", "ÇÑ´Ù¿¬" };
-//		System.out.println("¹øÈ£¸¦ ÀÔ·ÂÇÏ¼¼¿ä ÀÌ¸§À» ¾Ë·Áµå¸³´Ï´Ù.");
+////		for(;;) ê°€ í¬ë¬¸ì˜ ë¬´í•œë°˜ë³µ
+//		String[] ë°˜3 = { "ê°•ì§€ë¯¼", "ê°•í˜œì •", "ê¹€ê°€ì˜", "ê¹€ë‚˜ì˜", "ê¹€ì„ ì˜¥", "ê¹€ìˆ˜ì§„", "ë¥˜ì •ë¯¼", "ë°•êµë ¹", "ì„œë‚¨ê²½", "ì˜¤ìŠ¹ì—°", "ì›ì˜ˆë¦°", "ì›ì±„ë¦°", "ì´ì„œí˜„",
+//				"ì´ì±„ë¦°", "ì´í˜„ìˆ˜", "ì„í˜„ì§„", "ì¥ìœ ê²½", "ì¥ì›ì´", "í•œë‹¤ì—°" };
+//		System.out.println("ë²ˆí˜¸ë¥¼ ì…ë ¥í•˜ì„¸ìš” ì´ë¦„ì„ ì•Œë ¤ë“œë¦½ë‹ˆë‹¤.");
 //		Scanner sc = new Scanner(System.in);
 //		while (true) {
 //			int number = sc.nextInt();
 ////			1 < =number <=18
 //
-//			if (1 <= number && number <= ¹İ3.length) {
-//				System.out.println(¹İ3[number - 1]);
+//			if (1 <= number && number <= ë°˜3.length) {
+//				System.out.println(ë°˜3[number - 1]);
 //			} else {
 //				break;
 //			}
 	//	}
 
-		String[] ¹İ3 = { "°­Áö¹Î", "°­ÇıÁ¤", "±è°¡¿µ", "±è³ª¿µ", "±è¼±¿Á", "±è¼öÁø", "·ùÁ¤¹Î", "¹Ú±³·É", "¼­³²°æ", "¿À½Â¿¬", "¿ø¿¹¸°", "¿øÃ¤¸°", "ÀÌ¼­Çö",
-		"ÀÌÃ¤¸°", "ÀÌÇö¼ö", "ÀÓÇöÁø", "ÀåÀ¯°æ", "Àå¿øÀÌ", "ÇÑ´Ù¿¬" };
-		//for (int i = 0; i < ¹İ3.length; i++) {
-		//	System.out.println(¹İ3[i]);
+		String[] ë°˜3 = { "ê°•ì§€ë¯¼", "ê°•í˜œì •", "ê¹€ê°€ì˜", "ê¹€ë‚˜ì˜", "ê¹€ì„ ì˜¥", "ê¹€ìˆ˜ì§„", "ë¥˜ì •ë¯¼", "ë°•êµë ¹", "ì„œë‚¨ê²½", "ì˜¤ìŠ¹ì—°", "ì›ì˜ˆë¦°", "ì›ì±„ë¦°", "ì´ì„œí˜„",
+		"ì´ì±„ë¦°", "ì´í˜„ìˆ˜", "ì„í˜„ì§„", "ì¥ìœ ê²½", "ì¥ì›ì´", "í•œë‹¤ì—°" };
+		//for (int i = 0; i < ë°˜3.length; i++) {
+		//	System.out.println(ë°˜3[i]);
 		//}
-		//for-each¹®
-				for (String name : ¹İ3) {
+		//for-eachë¬¸
+				for (String name : ë°˜3) {
 			System.out.println(name);
 		}
 		

@@ -8,14 +8,14 @@ public class program {
 		String str3 = new String("highschool");
 		String str4 = new String("highschool");
 
-		if(str1 == str2) System.out.println("ÁÖ¼Ò °°´Ù");
-			else System.out.println("ÁÖ¼Ò ´Ù¸£´Ù");
-		if(str3 == str4) System.out.println("ÁÖ¼Ò °°´Ù");
-			else System.out.println("ÁÖ¼Ò ´Ù¸£´Ù");
-		if(str1.equals(str2)) System.out.println("³»¿ë °°´Ù");
-			else System.out.println("³»¿ë ´Ù¸£´Ù");
-		if(str3.equals(str4)) System.out.println("³»¿ë °°´Ù");
-			else System.out.println("³»¿ë ´Ù¸£´Ù");
+		if(str1 == str2) System.out.println("ì£¼ì†Œ ê°™ë‹¤");
+			else System.out.println("ì£¼ì†Œ ë‹¤ë¥´ë‹¤");
+		if(str3 == str4) System.out.println("ì£¼ì†Œ ê°™ë‹¤");
+			else System.out.println("ì£¼ì†Œ ë‹¤ë¥´ë‹¤");
+		if(str1.equals(str2)) System.out.println("ë‚´ìš© ê°™ë‹¤");
+			else System.out.println("ë‚´ìš© ë‹¤ë¥´ë‹¤");
+		if(str3.equals(str4)) System.out.println("ë‚´ìš© ê°™ë‹¤");
+			else System.out.println("ë‚´ìš© ë‹¤ë¥´ë‹¤");
 		
 		System.out.println("=================");
 		System.out.println(str1.length());

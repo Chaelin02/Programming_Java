@@ -1,17 +1,17 @@
 package kr.hs.emirim.practice;
 
-public class ¿¬¿¹ÀÎ {
-	String ½Ç¸í;
-	boolean ¿©ÀÚÀÎ°¡;
+public class ì—°ì˜ˆì¸ {
+	String ì‹¤ëª…;
+	boolean ì—¬ìì¸ê°€;
 	
-	void ¹æ¼ÛÇÏ±â() {
-		 System.out.println(½Ç¸í+":"+"¹æ¼ÛÁß");
+	void ë°©ì†¡í•˜ê¸°() {
+		 System.out.println(ì‹¤ëª…+":"+"ë°©ì†¡ì¤‘");
 	}
-	void ÀÎÅÍºäÇÏ±â() {
-		System.out.println("ÀÎÅÍºä Áß");
+	void ì¸í„°ë·°í•˜ê¸°() {
+		System.out.println("ì¸í„°ë·° ì¤‘");
 	}
-	void °³ÀÎ±âÇÏ±â() {
-		System.out.println("°³ÀÎ±â ÇÏ±â");
+	void ê°œì¸ê¸°í•˜ê¸°() {
+		System.out.println("ê°œì¸ê¸° í•˜ê¸°");
 	}
 
 }

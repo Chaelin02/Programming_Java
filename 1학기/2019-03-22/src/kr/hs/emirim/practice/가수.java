@@ -1,11 +1,11 @@
 package kr.hs.emirim.practice;
 
-public class °¡¼ö extends ¿¬¿¹ÀÎ{
-	String ´ëÇ¥°î;
-	void °ø¿¬ÇÏ±â() {
-		System.out.println("°ø¿¬ÇÏ±â");
+public class ê°€ìˆ˜ extends ì—°ì˜ˆì¸{
+	String ëŒ€í‘œê³¡;
+	void ê³µì—°í•˜ê¸°() {
+		System.out.println("ê³µì—°í•˜ê¸°");
 	}
-	void °³ÀÎ±âÇÏ±â() {
-		System.out.println("¼º´ë¸ğ»çÇÏ±â");
+	void ê°œì¸ê¸°í•˜ê¸°() {
+		System.out.println("ì„±ëŒ€ëª¨ì‚¬í•˜ê¸°");
 	}
 }

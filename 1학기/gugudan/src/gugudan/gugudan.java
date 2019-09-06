@@ -9,8 +9,8 @@ public class gugudan {
 
 	/*	while (true) {
 			System.out.println("==============================");
-			System.out.println("(1,13,5,7,9)¸â¹ö ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
-			// ÀÔ·Â¹ŞÀÚ
+			System.out.println("(1,13,5,7,9)ë©¤ë²„ ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”");
+			// ì…ë ¥ë°›ì
 			Scanner sc = new Scanner(System.in);
 
 			int member;
@@ -35,7 +35,7 @@ public class gugudan {
 				System.out.println("Seventen");
 			} 
 			else {
-				System.out.println("ÀÌ ¼öÀÇ ¸â¹ö°¡ ¾ø½À´Ï´Ù.");
+				System.out.println("ì´ ìˆ˜ì˜ ë©¤ë²„ê°€ ì—†ìŠµë‹ˆë‹¤.");
 			break;
 			}
 
@@ -43,30 +43,30 @@ public class gugudan {
 		
 		Scanner sc = new Scanner(System.in);
 		int member;
-		System.out.println("(1,13,5,7,9)¸â¹ö ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.println("(1,13,5,7,9)ë©¤ë²„ ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”");
 		for (int i=0;;  i++) {
 			member = sc.nextInt();
 
 			if (member == 5) {
-				System.out.println("itzy -ÀÌ¾î¼­ ÀÔ·Â");
+				System.out.println("itzy -ì´ì–´ì„œ ì…ë ¥");
 			}
 
 			else if (member == 7) {
-				System.out.println("BTS -ÀÌ¾î¼­ ÀÔ·Â");
+				System.out.println("BTS -ì´ì–´ì„œ ì…ë ¥");
 			}
 
 			else if (member == 9) {
-				System.out.println("EXO -ÀÌ¾î¼­ ÀÔ·Â");
+				System.out.println("EXO -ì´ì–´ì„œ ì…ë ¥");
 			}
 
 			else if (member == 1) {
-				System.out.println("IU -ÀÌ¾î¼­ ÀÔ·Â");
+				System.out.println("IU -ì´ì–´ì„œ ì…ë ¥");
 			} 
 			else if (member == 13) {
-				System.out.println("Seventen -ÀÌ¾î¼­ ÀÔ·Â");
+				System.out.println("Seventen -ì´ì–´ì„œ ì…ë ¥");
 			} 
 			else {
-				System.out.println("ÀÌ ¼öÀÇ ¸â¹ö°¡ ¾ø½À´Ï´Ù.");
+				System.out.println("ì´ ìˆ˜ì˜ ë©¤ë²„ê°€ ì—†ìŠµë‹ˆë‹¤.");
 			break;
 			}
 		}

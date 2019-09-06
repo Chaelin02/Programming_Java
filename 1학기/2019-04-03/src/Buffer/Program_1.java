@@ -3,7 +3,7 @@ package Buffer;
 public class Program_1 {
 
 	public static void main(String[] args) {
-		Integer in1 = new Integer(100);   //°ğ »ç¶óÁö´Ï±î ¼± ±×¾îÁü
+		Integer in1 = new Integer(100);   //ê³§ ì‚¬ë¼ì§€ë‹ˆê¹Œ ì„  ê·¸ì–´ì§
 		Integer in2 = new Integer(100);
 		Integer in3 = new Integer(200);
 		System.out.println("in1 == in2 --> "+(in1 == in2));
