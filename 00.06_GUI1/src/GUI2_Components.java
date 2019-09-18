@@ -27,6 +27,7 @@ public class GUI2_Components  {
         cbox.addItem("바나나");
 
 
+JLabel lblResult = new JLabel("Result");
 
         bt0.addActionListener(new ActionListener() {
             @Override
@@ -45,6 +46,7 @@ public class GUI2_Components  {
         panel.add(tf0);
         panel.add(ta0);
         panel.add(cbox);
+        panel.add(lblResult);
 
         frame.add(panel);
 
