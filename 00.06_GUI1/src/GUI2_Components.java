@@ -32,7 +32,21 @@ JLabel lblResult = new JLabel("Result");
         bt0.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-                bt0.setText("Clicked");    //버튼을 누르면 Clicked로 바꾸ㅚㅁ
+                String result = "";
+                result += lb0.getText();
+                result += bt0.getText();
+                result += cb0.isSelected();
+                result += cb1.isSelected();
+                result += rb0.isSelected();
+                result += rb1.isSelected();
+                result += tf0.getText();
+                result += tf0.getText();
+                result += cbox.getSelectedIndex();
+                result += cbox.getSelectedItem();
+                lblResult.setText(result);
+
+
+
 
             }
         });
