@@ -23,8 +23,6 @@ public class GUI5_layout {
         panel.add(bt4,BorderLayout.SOUTH);
         panel.add(bt5,BorderLayout.NORTH);   ///한곳에 두개를 넣으면 최종으로 넣은 버튼이 들어감
 
-
-
         frame.add(panel);
 
         frame.setPreferredSize(new Dimension(600, 400));
