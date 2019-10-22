@@ -10,7 +10,7 @@ public class GUI7_layout {
         JButton bt0 = new JButton("Button" + 0);
         JButton bt1 = new JButton("Button" + 1);
 
-        bt0.setBounds(10,20,100,50);
+        bt0.setBounds(10,20,100,50);   //절댓값으룽
         bt1.setBounds(120,20,100,100);
         panel.add(bt0);
         panel.add(bt1);
